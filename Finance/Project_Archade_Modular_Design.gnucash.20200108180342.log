@@ -1,0 +1,18 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	afb88197a28e46e5ab7417003ceded09	60ea71718b464822939838950bc35042	2020-01-08 17:05:31	2020-01-08 17:05:31	2020-01-08 10:59:00	1529a465ba484fbd8f70deabd674dc9c	Tooling		Coop . Selbsklebe Folie				n	-540/100	-540/100	1970-01-01 00:00:00
+C	afb88197a28e46e5ab7417003ceded09	18607490020b4a1296f45fc2825d9ec8	2020-01-08 17:05:31	2020-01-08 17:05:31	2020-01-08 10:59:00	7531fc0a84048ab0a30940d83aadb287	Bank		Coop . Selbsklebe Folie				n	540/100	540/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	bf3eddd10ab34be9999773cd59ae959f	7fc2891ce6da4f86ab1a7f12beb25f13	2020-01-08 17:06:32	2020-01-08 17:06:32	2020-01-08 10:59:00	1529a465ba484fbd8f70deabd674dc9c	Tooling		Coop . Selbsklebe Folie				n	0/100	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	e6ccf7cbbd974f0bb111dbfe110725e6	422f017d98984f68a0a6b6a47b97a97a	2020-01-08 17:06:41	2020-01-08 17:06:41	2020-01-08 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
