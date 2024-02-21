@@ -1,9 +1,8 @@
 (======START=====================)
-(REPLACE F0.000000 ; F1000)
-(REPLACE Z-5.000000 ; Z-5.000000 S1000 S1000	(---LaserOff 100% ON))
-(REPLACE Z4.000000 ; Z4.000000 S0 	(---LaserOff 00% OFF))
-(REPLACE G0 F1000 Z6.000000 ;  G0 F1000 Z6.000000 (---LaserOff 00% OFF)) 
-
+(1 REPLACE F0.000000 ; F1000)
+(2 REPLACE Z-5.000000 ; Z-5.000000 S1000	(---LaserOff 100% ON))
+(3 REPLACE Z4.000000 ; Z4.000000 S0 	(---LaserOff 00% OFF))
+(4 REPLACE G0 F1000 Z6.000000 ;  G0 F1000 Z6.000000 (---LaserOff 00% OFF)) 
 (======CODE MANDATORY============)
 M3 S0  (M03 – Spindle on in a clockwise)
 (================================)
